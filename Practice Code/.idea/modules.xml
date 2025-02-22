@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01Introduction/01Introduction.iml" filepath="$PROJECT_DIR$/01Introduction/01Introduction.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2Java Basics/2Java Basics.iml" filepath="$PROJECT_DIR$/2Java Basics/2Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02Java Basics/02Java Basics.iml" filepath="$PROJECT_DIR$/02Java Basics/02Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03Datatypes and variables/03Datatypes and variables.iml" filepath="$PROJECT_DIR$/03Datatypes and variables/03Datatypes and variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Practice Code.iml" filepath="$PROJECT_DIR$/.idea/Practice Code.iml" />
     </modules>
   </component>
