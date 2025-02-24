@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/01Introduction/01Introduction.iml" filepath="$PROJECT_DIR$/01Introduction/01Introduction.iml" />
       <module fileurl="file://$PROJECT_DIR$/02Java Basics/02Java Basics.iml" filepath="$PROJECT_DIR$/02Java Basics/02Java Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/03Datatypes and variables/03Datatypes and variables.iml" filepath="$PROJECT_DIR$/03Datatypes and variables/03Datatypes and variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04Operators if-else and Number System/04Operators if-else and Number System.iml" filepath="$PROJECT_DIR$/04Operators if-else and Number System/04Operators if-else and Number System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05While loop and arrays/05While loop and arrays.iml" filepath="$PROJECT_DIR$/05While loop and arrays/05While loop and arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Practice Code.iml" filepath="$PROJECT_DIR$/.idea/Practice Code.iml" />
     </modules>
   </component>
